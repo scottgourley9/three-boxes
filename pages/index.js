@@ -11,7 +11,7 @@ export default function Home() {
       <main>
         <h1 className={styles.title}>
           Three Boxes
-          <a class="ar active" href="intent://arvr.google.com/scene-viewer/1.0?mode=ar_preferred&amp;resizable=true&amp;file=https://www.vectary.com/viewer/data/33b7c469-9199-470a-b07e-8db9c0fc9af5/android/33b7c469-9199-470a-b07e-8db9c0fc9af5.glb#Intent;scheme=https;package=com.google.android.googlequicksearchbox;action=android.intent.action.VIEW;end;" rel="ar">
+          <a class="ar active" href="intent://arvr.google.com/scene-viewer/1.0?mode=ar_preferred&amp;resizable=true&amp;file=https://scottgourley.s3.us-west-2.amazonaws.com/Green+Box.glb#Intent;scheme=https;package=com.google.android.googlequicksearchbox;action=android.intent.action.VIEW;end;" rel="ar">
             AR Testing
           </a>
         </h1>
